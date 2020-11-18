@@ -2,17 +2,13 @@
 
 ## Technologies I am currently in love with:<br>
   - <img align="center" alt="flutterIcon" height="25px" width="25px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" /> Flutter
-  
   - <img align="center" alt="flutterIcon" height="25px" width="25px" src="https://cdn.icon-icons.com/icons2/512/PNG/512/os-ios-dark_icon-icons.com_50845.png"/> IOS
-  
   - <img align="center" alt="flutterIcon" height="25px" width="25px" src="https://cdn.icon-icons.com/icons2/512/PNG/512/vc-git_icon-icons.com_50729.png"/> Git
   
   
 ### Other technologies:
   - <img align="center" alt="flutterIcon" height="25px" width="25px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png"/> Java
-  
   - <img align="center" alt="flutterIcon" height="25px" width="25px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png"/> <img align="center" alt="flutterIcon" height="25px" width="25px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png"/> C/C++
-  
   - <img align="center" alt="flutterIcon" height="25px" width="25px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png"/>  <img align="center" alt="flutterIcon" height="25px" width="25px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png"/> <img align="center" alt="flutterIcon" height="25px" width="25px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png"/> HTML/CSS/PHP
   
 ### Hobbies:
